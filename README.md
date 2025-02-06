@@ -34,3 +34,7 @@ docker-compose up
 ```bash
 npm run dev
 ```
+
+## Test the API
+
+A postman collection is provided in root folder
